@@ -16,7 +16,7 @@ body {
   font-family: "Muli-Regular";
   font-size: 14px;
   margin: 0;
-  color: #999;
+  color: #606060;
 }
 input, textarea, select, button {
   font-family: "Muli-Regular";
@@ -91,7 +91,7 @@ a {
   align-items: center;
   margin-bottom: 10px;
   padding: 10px;
-  background-color: #f9f9f9;
+  background-color: #412424;
   border-radius: 5px;
 }
 .url-link {
@@ -137,7 +137,7 @@ a {
 .image-4 {
   position: absolute;
   bottom: 0;
-  right: -150px;
+  right: -165px;
 }
 
 /* Form Styles */
@@ -146,7 +146,8 @@ form {
   position: relative;
   z-index: 9;
   padding: 77px 61px 66px;
-  background: #fff;
+  background: rgba(255,255,255,0.8);
+  
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
 }
 h3 {

@@ -20,7 +20,7 @@ const HomePage: React.FC = () => {
   
 
   return (
-    <div className="wrapper">
+    <div className="wrapper" style={{backgroundImage:'url()'}}>
       <div className="inner">
       <img src="/anya.png" alt="" className="image-3" />
         <h1 className="title">URL Shortener</h1>

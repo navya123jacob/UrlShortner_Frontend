@@ -76,6 +76,7 @@ const SignupPage: React.FC = () => {
     <div className="wrapper">
       <div className="inner">
         <img src="/image-1.png" alt="" className="image-1" />
+        <h1 className="title">URL Shortener</h1>
         <form>
           <h3>New Account?</h3>
           <div className="form-holder">
